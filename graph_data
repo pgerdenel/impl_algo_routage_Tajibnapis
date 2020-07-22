@@ -1,0 +1,2 @@
+Edges=A B C D;
+Vertex=A-B,A-D,B-C,C-D;
